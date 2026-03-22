@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://royalibox.com/live/8g5665q36d/rj9c9ucrhl/1776086.m3u8 
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115704&extension=m3u8
