@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
+http://mooseven.ddns.net:8080/blive/blivetv/255840
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_480/chunks.m3u8 
 
