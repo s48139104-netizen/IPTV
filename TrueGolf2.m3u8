@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://ipplaybox.fun/dookeela/golfchannel/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://love.9xrie8ecms.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8
