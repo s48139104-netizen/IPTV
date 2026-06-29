@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-https://live.livedoomovies.com:4433/api/hls/1562
+https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
